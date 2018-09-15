@@ -1,8 +1,8 @@
-===========================================================
-==============Final Project -- CS325 - 3/9/18==============
-====Ann Kostecki - Charles Ledbetter - Matthew Northey=====
-=======================Readme File=========================
-===========================================================
+==================================================
+==========Final Project -- CS325 - 3/9/18=========
+Ann Kostecki - Charles Ledbetter - Matthew Northey
+===================Readme File====================
+==================================================
 
 The zip contains the raw code for 1 program:
 
@@ -38,7 +38,7 @@ command line enter:
 
 To run the program compile it on the flip server and type:
 
-   ./TSP <filename>
+   ./TSP [filename]
 
 Where <filename> is replaced with the name of the file to
 open and parse.
