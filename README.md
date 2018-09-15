@@ -1,7 +1,15 @@
 *Final Project -- CS325 - 3/9/18
+
+
 *Ann Kostecki
+
+
 *Charles Ledbetter
+
+
 *Matthew Northey
+
+
 ====Readme File====
 ===================
 
