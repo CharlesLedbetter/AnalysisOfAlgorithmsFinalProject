@@ -1,8 +1,9 @@
-==================================================
-==========Final Project -- CS325 - 3/9/18=========
-Ann Kostecki - Charles Ledbetter - Matthew Northey
-===================Readme File====================
-==================================================
+*Final Project -- CS325 - 3/9/18
+*Ann Kostecki
+*Charles Ledbetter
+*Matthew Northey
+====Readme File====
+===================
 
 The zip contains the raw code for 1 program:
 
